@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: ADMIN
+
+logging:
+  file: C:\Users\karth\Desktop\microserv.log
+
+
+
+
+

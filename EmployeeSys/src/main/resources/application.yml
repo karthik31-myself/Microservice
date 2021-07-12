@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: EMPLOYEE
+
+logging:
+  file: C:\Users\karth\Desktop\microserv.log
+
